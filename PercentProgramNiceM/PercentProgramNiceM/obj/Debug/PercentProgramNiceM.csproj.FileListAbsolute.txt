@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\bin\Debug\PercentProgramNiceM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\bin\Debug\PercentProgramNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\bin\Debug\PercentProgramNiceM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.frmPercentProgram.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 4 (Procedures & Functions)\PercentProgramNiceM\PercentProgramNiceM\obj\Debug\PercentProgramNiceM.pdb
