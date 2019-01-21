@@ -18,9 +18,9 @@ using System.Windows.Forms;
 
 namespace OptionalParametersNiceM
 {
-    public partial class Form1 : Form
+    public partial class frmOptionalParameters : Form
     {
-        public Form1()
+        public frmOptionalParameters()
         {
             InitializeComponent();
         }
@@ -29,27 +29,27 @@ namespace OptionalParametersNiceM
       
         public void PrintAdress(String street, String city, String province, String postalCode, String aptNum)
         {
-            MessageBox.Show("Your adress is: " + street + "" + city + "" + province + "" + postalCode + "" + aptNum + "");
+            MessageBox.Show("Your adress is: " + street  + ", " + city + ", " + province + ", " + postalCode + " " + "apt #", aptNum + " ");
 
         }
 
         public void PrintAdress(String street, String city, String province, String postalCode)
         {
-            MessageBox.Show("Your adress is: " + street + "" + city + "" + province + "" + postalCode + "");
+            MessageBox.Show("Your adress is: " + street + " " + city + " " + province + " " + postalCode + " ");
 
         }
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
             // declare local variables
-            String userStreet, userCity, userProvince, userPostalCode, UserAptNum;
+            String userStreet, userCity, userProvince, userPostalCode, userAptNum;
 
             // get the names from the textboxes
             userStreet = this.txtStreet.Text;
             userCity = this.txtCity.Text;
             userProvince = this.txtProvince.Text;
             userPostalCode = this.txtPostalCode.Text;
-            UserAptNum = this.txtAptNum.Text;
+            userAptNum = this.txtAptNum.Text;
 
             // get the user to enter a street adress
             if (userStreet == "")
@@ -75,11 +75,15 @@ namespace OptionalParametersNiceM
             }
 
             // make the user a province
-            else if (userProvince == "")
+            else if (userAptNum == "")
             {
-                MessageBox.Show("Please enter your province.", "Full Name Program");
+                PrintAdress(userStreet, userCity, userProvince, userPostalCode);
             }
-
+            else 
+            {
+                PrintAdress(userStreet, userCity, userProvince, userPostalCode, userAptNum);
+            }
+           
 
 
 

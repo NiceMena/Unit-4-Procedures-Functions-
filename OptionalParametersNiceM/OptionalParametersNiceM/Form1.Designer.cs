@@ -1,6 +1,6 @@
 ﻿namespace OptionalParametersNiceM
 {
-    partial class Form1
+    partial class frmOptionalParameters
     {
         /// <summary>
         /// Required designer variable.
@@ -137,7 +137,7 @@
             this.lblProvince.TabIndex = 11;
             this.lblProvince.Text = "Province";
             // 
-            // Form1
+            // frmOptionalParameters
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -153,8 +153,8 @@
             this.Controls.Add(this.lblCity);
             this.Controls.Add(this.lblAdress);
             this.Controls.Add(this.lblAptNum);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmOptionalParameters";
+            this.Text = "Optional Parameters";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
